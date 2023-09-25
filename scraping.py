@@ -78,3 +78,4 @@ for region_data in region_links:
 
 df = pd.DataFrame(houses)
 df
+#print 
